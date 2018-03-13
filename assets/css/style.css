@@ -1,0 +1,24 @@
+button, div, form, input {
+    margin: 10px;
+}
+
+.gifDiv {
+    float: left;
+    padding-bottom: 30px;
+}
+
+#gifs-view {
+    width: 90%;
+}
+
+form {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#buttons-view {
+    text-align: center;
+}
